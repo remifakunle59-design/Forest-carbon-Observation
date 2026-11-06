@@ -21,3 +21,15 @@ This repository provides a reproducible Python workflow using `xarray` and `riox
 git clone [https://github.com/remifakunle59-design/Forest-carbon-Observation.git](https://github.com/remifakunle59-design/Forest-carbon-Observation.git)
 cd Forest-carbon-Observation
 pip install -r requirements.txt
+
+# Forest-carbon-Observation: Satellite Image Analysis & Model Upscaling
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/remifakunle59-design/Forest-carbon-Observation/blob/main/Forest_Carbon_Satellite_Analysis.ipynb)
+
+**Author:** Remilekun Eunice Atobatele  
+**Target Position:** Doctoral Researcher (Ref. No. 11590) — GFZ German Research Centre for Geosciences  
+
+---
+
+## Interactive Notebook
+Click the **Open in Colab** badge above to launch the interactive Jupyter Notebook (`Forest_Carbon_Satellite_Analysis.ipynb`). You can execute the pipeline cells sequentially to render live satellite imagery, spectral productivity proxies ($\text{NIRv}$), canopy moisture ($\text{NDII}$), and forest loss maps directly inside your browser.
